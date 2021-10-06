@@ -1,0 +1,125 @@
+body{
+    margin:0;
+    padding:0;
+    border:1px solid black;
+    width:1400px;
+}
+.main{
+    display:inline-block;
+    height:1000px;
+    width:1350px;
+    
+}
+
+.child{
+    display: inline-block;
+
+}
+.pchild1{
+    height:100px;
+    width:100px;
+    margin: 5px;
+    padding: 5px;
+}
+.pchild2{
+    height:100px;
+    width:120px;
+    margin: 5px;
+    padding: 5px;
+}
+.pchild3{
+    height:100px;
+    width:120px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.pchild4{
+    height:100px;
+    width:120px;
+    margin: 5px;
+    padding: 5px;
+}
+.child2{
+    display:inline-block;
+}
+.sub-child{
+    display: inline-block;
+    margin-bottom:60px;
+    margin-top: 100px;
+}
+.main2{
+    float: right;
+    margin-top:20px;
+    margin-right:20px;
+}
+.check{
+    margin-bottom:10px;
+    padding-bottom: 10px;
+
+}
+.line{
+    margin-left:10px;
+    border:1px solid black;
+    background-color: black;
+    color: white;
+}
+.space{
+    word-spacing:1.5rem;
+}
+.size{
+    word-spacing:0.5rem;
+}
+.btn6{
+    height: 2rem;
+    width:2rem;
+}
+.btn7{
+    height: 2rem;
+    width:2rem;
+}
+.btn8{
+    height: 2rem;
+    width:2rem;
+}
+.select{
+    word-spacing:1rem;
+}
+.btn1{
+    border:2px solid black;
+    height: 2.4rem;
+    width:13.0rem;
+}
+.btn2{
+    border:2px solid black;
+    height:2.4rem;
+    width:13rem;
+    background-color: black;
+    color: white;
+}
+.btn3{
+    border:2px solid black;
+    height: 2.4rem;
+    width:8.6rem;
+    background-color: black;
+    color: white;
+}
+.btn4{
+    border:2px solid black;
+    height: 2.4rem;
+    width:8.6rem;
+    background-color: black;
+    color: white;
+}
+.btn5{
+    border:2px solid black;
+    height: 2.4rem;
+    width:9.6rem;
+    background-color: black;
+    color: white;
+}
+.s1{
+    text-decoration: underline;
+    word-spacing:0rem;
+}
+
