@@ -1,0 +1,50 @@
+
+.first{
+    display:block;
+    border:3px solid blueviolet;
+    height:70px;
+    padding:20px;
+    text-align:center;
+    color:white;
+    background-color:blueviolet;
+}
+#second{
+ 
+    display:block;
+    border:3px solid red;
+    height:90px;
+    padding-top:60px;
+    text-align: center;
+    color:white;
+    background-color:red;
+}
+.third{
+    display:block;
+    border:3px solid greenyellow;
+    width:685px;
+    height:130px;
+    text-align:center;
+    padding:60px;
+    color:white;
+    background-color:greenyellow;
+}
+.four{
+    display:block;
+    border:3px solid burlywood;
+    margin-left:805px;
+    margin-top:-257px;
+    height:130px;
+    text-align:center;
+    padding:60px;
+    color:white;
+    background-color: burlywood;
+}
+.five{
+    display:block;
+    border:3px solid blueviolet;
+    height:70px;
+    padding:20px;
+    text-align:center;
+    background-color:blueviolet;
+    color:white;
+}
